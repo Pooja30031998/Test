@@ -1,0 +1,28 @@
+
+  body {
+    background-color: #fff5fd;
+  }
+  hr {
+    background-color: white;
+    border-style: none;
+    height: 2px;
+  }
+  tr, td, div {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 9pt;
+    line-height: normal;
+    font-weight: normal;
+    color: #333333;
+}
+button {
+  background-color: #e4bad4;
+  border: embed;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
